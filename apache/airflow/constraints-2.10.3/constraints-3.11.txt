@@ -516,7 +516,7 @@ oss2==2.19.1
 packaging==24.1
 pandas-gbq==0.24.0
 pandas-stubs==2.2.3.241009
-pandas==2.2.3
+pandas==2.1.4
 papermill==2.6.0
 paramiko==3.5.0
 parso==0.8.4
